@@ -105,6 +105,12 @@ root
 └── README.md           # Project documentation
 ```
 
+## Demo
+
+Here is a visual demo of the application:
+![YouTube Clone Demo](assets/demo-image.png "YouTube Clone Demo")
+
+
 ## Contributing
 
 Contributions are welcome! If you'd like to add a feature or fix a bug, feel free to fork the repository and submit a pull request.
