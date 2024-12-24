@@ -108,7 +108,7 @@ root
 ## Demo
 
 Here is a visual demo of the application:
-![YouTube Clone Demo](assets/demo-image.png "YouTube Clone Demo")
+![YouTube Clone Demo](public/demo-youtube-clone.png "YouTube Clone Demo")
 
 
 ## Contributing
